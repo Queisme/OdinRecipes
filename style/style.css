@@ -1,0 +1,34 @@
+* {
+    background: rgb(27, 27, 27);
+    color: rgb(221, 221, 221);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+}
+
+body main{
+    text-align: center;
+    font-size: 24px;
+}
+
+img {
+    border:2px solid red;
+}
+
+ul h3{
+    background: green;
+}
+
+ol h3{
+    background: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background: rgba(128, 128, 128, 0.527);
+}
+
+a:visited {
+    color:rgb(165, 107, 0);
+}
